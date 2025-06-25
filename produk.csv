@@ -1,0 +1,51 @@
+id_produk,nama_produk,kategori,harga_satuan
+1,Snack 1,Pakaian,23112
+2,Snack 2,Aksesori,138393
+3,Sepatu 3,Alas Kaki,396123
+4,Kaos 4,Makanan,55580
+5,Jam Tangan 5,Elektronik,26663
+6,Kaos 6,Pakaian,124629
+7,Sepatu 7,Makanan,325631
+8,Kaos 8,Makanan,114248
+9,Snack 9,Makanan,229949
+10,Sepatu 10,Elektronik,318944
+11,Topi 11,Pakaian,407833
+12,Charger 12,Alas Kaki,376026
+13,Kemeja 13,Aksesori,155684
+14,Sepatu 14,Alas Kaki,410290
+15,Topi 15,Pakaian,58625
+16,Kemeja 16,Pakaian,198208
+17,Charger 17,Aksesori,326526
+18,Topi 18,Pakaian,392589
+19,Kemeja 19,Makanan,75444
+20,Kemeja 20,Pakaian,299428
+21,Topi 21,Makanan,474231
+22,Charger 22,Aksesori,312698
+23,Sepatu 23,Pakaian,34025
+24,Snack 24,Alas Kaki,415310
+25,Topi 25,Pakaian,458432
+26,Sepatu 26,Pakaian,209295
+27,Topi 27,Elektronik,343281
+28,Charger 28,Aksesori,95277
+29,Topi 29,Aksesori,119842
+30,Snack 30,Aksesori,377955
+31,Snack 31,Pakaian,329360
+32,Snack 32,Alas Kaki,290043
+33,Snack 33,Alas Kaki,95669
+34,Kemeja 34,Elektronik,151530
+35,Snack 35,Makanan,125141
+36,Snack 36,Aksesori,451897
+37,Charger 37,Pakaian,130087
+38,Charger 38,Pakaian,432075
+39,Topi 39,Elektronik,150373
+40,Kaos 40,Alas Kaki,488746
+41,Jam Tangan 41,Aksesori,121477
+42,Snack 42,Elektronik,217425
+43,Snack 43,Elektronik,84905
+44,Topi 44,Alas Kaki,139303
+45,Snack 45,Makanan,292579
+46,Topi 46,Makanan,234622
+47,Jam Tangan 47,Elektronik,199790
+48,Sepatu 48,Alas Kaki,277138
+49,Kemeja 49,Pakaian,406247
+50,Kaos 50,Pakaian,90132
